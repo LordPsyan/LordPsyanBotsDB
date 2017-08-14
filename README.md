@@ -1,17 +1,8 @@
-# LordPsyanBotsDB
-TC based Database for LordPsyanBots repo
+I have worked on these repo's for a very long time. I started in September 2007.
 
-There are 2 files in this repo.
+I am not retiring, I am just changing the way I do things. All Repo's have been moved to
+http://git.realmsofwarcraft.com
 
-LordPsyanBotsDB-master-world.tar.gz - World database for LordPsyanBots Master branch
-
-LordPsyanBotsDB-patches-world.tar.gz - World database for LordPsyanBots Patches branch
-
-
-Updated:
-Author: LordPsyan <realmsofwarcraft@gmail.com>
-Date:   Fri Dec 25 12:40:04 2015 -0600
-
-	Last sql update applied:
-	2015_12_18_04_world.sql
-	
+Some Repo's will be private and some public. I will still work on patches, databases and
+full cores. All private Repo's will be accessible to those who really want it. Check the
+individual repo for instructions on how to access.
